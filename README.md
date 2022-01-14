@@ -1,6 +1,6 @@
 # Learn Apollo GraphQL Server
 
-![GraphQL + Apollo](https://miro.medium.com/max/1400/1*o9Fp5sguKFlA6gIM1Yp10A.png)
+<img src="https://miro.medium.com/max/1400/1*o9Fp5sguKFlA6gIM1Yp10A.png" alt="GraphQL + Apollo" width="500" />
 
 <br />
 
